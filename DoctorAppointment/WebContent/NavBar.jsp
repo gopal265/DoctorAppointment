@@ -21,10 +21,10 @@
 						aria-current="page" href="admin_login.jsp"><i
 							class="fa-solid fa-right-to-bracket"></i> ADMIN</a></li>
 					<li class="nav-item"><a class="nav-link active"
-						aria-current="page" href="doctor_login.jsp">
+						aria-current="page" href="DoctorLogin.jsp">
 						<i class="fas fa-sign-in-alt"></i> DOCTOR</a></li>
 					<li class="nav-item"><a class="nav-link active"
-						aria-current="page" href="user_appointment.jsp"><i class="fa fa-book fa-1x"></i> APPOINTMENT</a></li>
+						aria-current="page" href="Appointment.jsp"><i class="fa fa-book fa-1x"></i> APPOINTMENT</a></li>
 					<li class="nav-item"><a class="nav-link active"
 						aria-current="page" href="Login.jsp"><i class="fas fa-sign-in-alt"></i> USER</a></li>
 

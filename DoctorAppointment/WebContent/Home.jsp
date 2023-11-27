@@ -23,7 +23,7 @@
 
 </head>
 <body>
-
+	
 	<%@include file="NavBar.jsp" %>
 
 	<div id="carouselExampleIndicators" class="carousel slide"
